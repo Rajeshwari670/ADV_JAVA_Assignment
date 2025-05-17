@@ -1,4 +1,5 @@
-
+/* Write a java program for getting different colors through ArrayList interface and sort them
+using Collections.sort( ArrayListObj) */
 
 package ADV_JAVA;
 import java.util.ArrayList;
