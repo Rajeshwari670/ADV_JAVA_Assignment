@@ -24,4 +24,6 @@ LinkedList_1c_4 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/m
 
 LinkedList_1c_5 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20212155.png
 
+Stringoperation_2a o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20212838.png
+
 
