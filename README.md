@@ -20,4 +20,6 @@ LinkedList_1c_2 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/m
 
 LinkedList_1c_3 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20200920.png
 
+LinkedList_1c_4 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20210725.png
+
 
