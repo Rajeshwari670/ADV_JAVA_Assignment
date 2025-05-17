@@ -32,6 +32,8 @@ String_3a o/p:https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Scr
 
 String_3b_1 o/p:https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20214957.png
 
+String_3b_2 o/p:https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20215609.png
+
 
 
 
