@@ -12,4 +12,6 @@ ArrayList_1b_4:https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Sc
 
 ArrayList 1b_5: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20193920.png
 
+ArrayList_1b_6: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20194459.png
+
 
