@@ -58,13 +58,12 @@ Swing_4c o/p:https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/4c.j
 
 Swing_5a o/p:https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-18%20121024.png
 
-Swing_5c o/p:https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-18%20121539.png
 
-https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-18%20121644.png
-
-CountryList_5c o/p:https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-18%20123151.png
+CountryList o/p:https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-18%20123151.png
 
 https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-18%20123200.png
+
+ColorTabbedPane o/p:https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-18%20124354.png
 
 
 
