@@ -58,5 +58,7 @@ Swing_4c o/p:https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/4c.j
 
 Swing_5a o/p:https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-18%20121024.png
 
+Swing_5c o/p:https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-18%20121539.png
+
 
 
