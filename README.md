@@ -82,6 +82,15 @@ ColorTabbedPane(5d) o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/bl
 
 8d Output : http://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/8a%2C8b%2C8c%2C8d/8d.jpeg
 
+9a Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/9a%2C9b%2C9c%2C9d/9a.jpeg
+
+9b Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/9a%2C9b%2C9c%2C9d/9b.jpeg
+
+9c Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/9a%2C9b%2C9c%2C9d/9c.jpeg
+
+9d Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/9a%2C9b%2C9c%2C9d/9d.jpeg
+
+
 
 
 
