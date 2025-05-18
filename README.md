@@ -70,6 +70,11 @@ ColorTabbedPane(5d) o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/bl
 
 6c Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/6a%2C6b%2C6c_Programs/6c.jpeg
 
+7a Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Session_%26_Cookie_Managament/7a.jpeg
+
+7b Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Session_%26_Cookie_Managament/7b.jpeg
+
+
 
 
 
