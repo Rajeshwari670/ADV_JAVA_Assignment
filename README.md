@@ -14,65 +14,66 @@ Output for 1B_4:-ColorSubList : https://github.com/Rajeshwari670/ADV_JAVA_Assign
 
 Output for 1B_6:-ColorRemoveByIndex : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20194459.png
 
-Output for 1C_1:-LinkedListIteratorExample : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20195559.png
+Output for 1C_6:-LinkedListIteratorExample : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20195559.png
+  
+Output for 1C_7:-LinkedListReverseIteration : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20200156.png
 
-LinkedList_1c_2 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20200156.png
+Output for 1C_8:-LinkedListOfferLast : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20200920.png
 
-LinkedList_1c_3 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20200920.png
+Output for 1C_9:-LinkedListElementPositions : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20210725.png
 
-LinkedList_1c_4 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20210725.png
+Output for 1C_10:-LinkedListSwapElements : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20212155.png
 
-LinkedList_1c_5 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20212155.png
+Output for 2A:-StringOperationsDemo : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20212838.png
 
-Stringoperation_2a o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20212838.png
+Output for 2B:-StringBufferVsStringBuilderPerformance: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20213556.png
 
-String_2b o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20213556.png
+Output for 3A:-StringOperationsDemo 3a : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20214121.png
+ 
+Output for 3B_1:-NullOrWhitespaceCheck : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20214957.png
 
-String_3a o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20214121.png
+Output for 3B_2:-SubstringCounter: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20215609.png
+  
+Output for 3B_3:-ReverseStringDemo: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20220008.png
 
-String_3b_1 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20214957.png
+Output for 3B_4:-PalindromeChecker: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20220905.png
+  
+Output for 3B_5:-WhitespaceRemover  : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20221345.png
 
-String_3b_2 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20215609.png
+Output for 3C_6:-CapitalizeWords: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20221747.png
+  
+Output for 3C_7:-TruncateString : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20222208.png
 
-String_3b_3 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20220008.png
+Output for 3C_8:-NumericCheck  : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20222523.png
 
-String_3b_4 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20220905.png
+Output for 3C_9:-RandomStringGenerator  : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20223307.png
 
-String_3b_5 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20221345.png
+Output for 3C_10:-WordCounter : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20224040.png
 
-String_3c_6 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20221747.png
+Output for 4A:-HelloSwing  : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20224749.png
 
-String_3c_7 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20222208.png
+Output for 4B:-CountryButtonDemo: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20225939.png
+  
+Output for 4C:-imageButtonDemo : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/4c.jpeg.jpg
 
-String_3c_8 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20222523.png
+Output for 5a ;- Countryadd : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-18%20125509.png
 
-String_3c_9 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20223307.png
-
-String_3c_10 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20224040.png
-
-Swing_4a o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20224749.png
-
-Swing_4b o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20225939.png
-
-Swing_4c o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/4c.jpeg.jpg
-
-Swing_5a o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-18%20125509.png
-
-Swing_5b o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-18%20125550.png
+Output for 5b ;- Tabbed pan: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-18%20125550.png
 
 CountryList(5c) o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-18%20125058.png
 
 ColorTabbedPane(5d) o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-18%20124354.png
 
-6a Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Serverlet_Program_6a%2Cb%2Cc/6a.jpeg
+Output for 6A:-factorial: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Serverlet_Program_6a%2Cb%2Cc/6a.jpeg
+ 
+Output for 6B:-Cookie : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Serverlet_Program_6a%2Cb%2Cc/6b.jpeg
 
-6b Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Serverlet_Program_6a%2Cb%2Cc/6b.jpeg
+Output for 6C:-prime   : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Serverlet_Program_6a%2Cb%2Cc/6c.jpeg
 
-6c Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Serverlet_Program_6a%2Cb%2Cc/6c.jpeg
+Output for 7A:-Session : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Session_%26_Cookie_Managament/7a.jpeg
 
-7a Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Session_%26_Cookie_Managament/7a.jpeg
-
-7b Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Session_%26_Cookie_Managament/7b.jpeg
+Output for 7B:-cookiemanagemnet : 
+  https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Session_%26_Cookie_Managament/7b.jpeg
 
 8a Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/HTML%26JDBC_8a%2Cb%2Cc%2Cd/8a.jpeg
 
