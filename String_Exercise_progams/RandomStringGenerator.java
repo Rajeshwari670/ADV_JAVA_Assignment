@@ -5,7 +5,7 @@ function generateRandomString()  */
 package ADV_JAVA;
 import java.util.Random;
 
-public class String_3c_9 {
+public class RandomStringGenerator {
 	    // User-defined function to generate a random string of specified length
 	    public static String generateRandomString(int length) {
 	        // Check for invalid length
