@@ -4,7 +4,7 @@ function isNumeric()  */
 
 package ADV_JAVA;
 
-public class String_3c_8 {
+public class NumericStringValidator {
 	    // User-defined function to check if a string contains only numeric characters
 	    public static boolean isNumeric(String str) {
 	        // Check for null or empty string
