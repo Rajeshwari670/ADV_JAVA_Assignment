@@ -6,7 +6,7 @@ package ADV_JAVA;
 import java.util.LinkedList;
 import java.util.Collections;
 
-public class LinkedList_1c_5 {
+public class SwapElementsLinkedList {
 	    public static void main(String[] args) {
 	        // Create a LinkedList to store colors
 	        LinkedList<String> colors = new LinkedList<>();
