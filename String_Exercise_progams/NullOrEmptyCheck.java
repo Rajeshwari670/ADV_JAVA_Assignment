@@ -5,7 +5,7 @@ defined function isNullOrEmpty(). */
 
 package ADV_JAVA;
 
-public class String_3b_1 {
+public class NullOrEmptyCheck {
 	    // User-defined function to check if a string is null or contains only whitespace
 	    public static boolean isNullOrEmpty(String str) {
 	        return str == null || str.trim().isEmpty();
