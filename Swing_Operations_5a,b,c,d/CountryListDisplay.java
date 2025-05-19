@@ -9,7 +9,7 @@ import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 import java.awt.*;
 
-public class Swing_5a {
+public class CountryListDisplay {
 	    public static void main(String[] args) {
 	        // Create the frame
 	        JFrame frame = new JFrame("Country List");
