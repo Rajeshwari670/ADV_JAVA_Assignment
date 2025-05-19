@@ -4,7 +4,7 @@ reverseString(). */
 
 package ADV_JAVA;
 
-public class String_3b_3 {
+public class ReverseString {
 	    // User-defined function to reverse the characters in a string
 	    public static String reverseString(String str) {
 	        // Check for null or empty string
