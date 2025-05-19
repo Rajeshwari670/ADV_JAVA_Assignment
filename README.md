@@ -74,13 +74,13 @@ ColorTabbedPane(5d) o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/bl
 
 7b Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Session_%26_Cookie_Managament/7b.jpeg
 
-8a Output : http://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/8a%2C8b%2C8c%2C8d/8a.jpeg
+8a Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/HTML%26JDBC_8a%2Cb%2Cc%2Cd/8a.jpeg
 
-8b Output : http://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/8a%2C8b%2C8c%2C8d/8b*.jpeg
+8b Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/HTML%26JDBC_8a%2Cb%2Cc%2Cd/8b*.jpeg
 
-8c Output : http://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/8a%2C8b%2C8c%2C8d/8c.jpeg
+8c Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/HTML%26JDBC_8a%2Cb%2Cc%2Cd/8c.jpeg
 
-8d Output : http://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/8a%2C8b%2C8c%2C8d/8d.jpeg
+8d Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/HTML%26JDBC_8a%2Cb%2Cc%2Cd/8d.jpeg
 
 9a Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/9a%2C9b%2C9c%2C9d/9a.jpeg
 
