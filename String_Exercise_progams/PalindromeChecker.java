@@ -4,7 +4,7 @@ and punctuation) using user defined function isPalindrome(): */
 
 package ADV_JAVA;
 
-public class String_3b_4 {
+public class PalindromeChecker {
 	    // User-defined function to check if a string is a palindrome (ignoring case and punctuation)
 	    public static boolean isPalindrome(String str) {
 	        // Check for null or empty string
