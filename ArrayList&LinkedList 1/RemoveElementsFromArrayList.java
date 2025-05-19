@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class ArrayList_1b_2 {
+public class RemoveElementsFromArrayList {
 	    public static void main(String[] args) {
 	        ArrayList<String> colorsList = new ArrayList<>();
 	        addColors(colorsList);
