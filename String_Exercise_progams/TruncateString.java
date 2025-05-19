@@ -4,7 +4,7 @@ defined function truncate()  */
 
 package ADV_JAVA;
 
-public class String_3c_7 {
+public class TruncateString {
 	    // User-defined function to truncate a string to a specified length and add ellipsis
 	    public static String truncate(String str, int maxLength) {
 	        // Check for null string or invalid maxLength
