@@ -64,11 +64,11 @@ CountryList(5c) o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/m
 
 ColorTabbedPane(5d) o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-18%20124354.png
 
-6a Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/6a%2C6b%2C6c_Programs/6a.jpeg
+6a Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Serverlet_Program_6a%2Cb%2Cc/6a.jpeg
 
-6b Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/6a%2C6b%2C6c_Programs/6b.jpeg
+6b Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Serverlet_Program_6a%2Cb%2Cc/6b.jpeg
 
-6c Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/6a%2C6b%2C6c_Programs/6c.jpeg
+6c Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Serverlet_Program_6a%2Cb%2Cc/6c.jpeg
 
 7a Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Session_%26_Cookie_Managament/7a.jpeg
 
