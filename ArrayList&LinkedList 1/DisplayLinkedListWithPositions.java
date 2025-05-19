@@ -5,7 +5,7 @@ l_listobj.get(p) ) */
 package ADV_JAVA;
 import java.util.LinkedList;
 
-public class LinkedList_1c_4 {
+public class DisplayLinkedListWithPositions {
 	    public static void main(String[] args) {
 	        // Create a LinkedList to store colors
 	        LinkedList<String> colors = new LinkedList<>();
