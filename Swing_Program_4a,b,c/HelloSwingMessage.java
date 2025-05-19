@@ -10,7 +10,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.SwingConstants;
 
-public class Swing_4a {
+public class HelloSwingMessage {
 	    public static void main(String[] args) {
 	        // Create the JFrame
 	        JFrame frame = new JFrame("Swing Hello Program");
