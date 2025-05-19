@@ -2,7 +2,7 @@ package ADV_JAVA;
 import java.util.ArrayList;
 
 
-public class ArrayList_1b_6 {
+public class RemoveNthElementArrayList {
 	    public static void main(String[] args) {
 	        // Create an ArrayList to store colors
 	        ArrayList<String> colors = new ArrayList<>();
