@@ -9,7 +9,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 
-public class Swing_4c {
+public class DigitalCLock {
 	    public static void main(String[] args) {
 	        // Create the JFrame
 	        JFrame frame = new JFrame("Image Button Event Demo");
