@@ -4,7 +4,7 @@ using user defined function countOccurrences() */
 
 package ADV_JAVA;
 
-public class String_3b_2 {
+public class SubstringOccurrenceCounter {
 	    // User-defined function to count occurrences of a substring in a main string
 	    public static int countOccurrences(String mainStr, String subStr) {
 	        // Check for null or empty strings
