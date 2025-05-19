@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class ArrayList_1b_4 {
+public class SortColorsArrayList {
 	    public static void main(String[] args) {
 	        // Create an ArrayList to store colors
 	        ArrayList<String> colors = new ArrayList<>();
