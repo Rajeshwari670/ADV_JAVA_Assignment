@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class ArrayList_1b_5 {
+public class SubListFromArrayList {
 	    public static void main(String[] args) {
 	        // Create an ArrayList to store colors
 	        ArrayList<String> colors = new ArrayList<>();
