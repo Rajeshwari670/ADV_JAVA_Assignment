@@ -8,7 +8,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class Swing_5b {
+public class ColorTabbedPaneRGB {
 	    public static void main(String[] args) {
 	        // Create the frame
 	        JFrame frame = new JFrame("Color Tabbed Pane");
