@@ -5,7 +5,7 @@ your answer which one is better. */
 
 package ADV_JAVA;
 
-public class String_2b {
+public class StringPerformanceTest {
 	    public static void main(String[] args) {
 	        final int ITERATIONS = 10_000;
 	        final String APPEND_TEXT = "AIET";
