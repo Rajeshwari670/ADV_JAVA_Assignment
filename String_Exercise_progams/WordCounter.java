@@ -3,7 +3,7 @@ countWords()  */
 
 package ADV_JAVA;
 
-public class String_3c_10 {
+public class WordCounter {
 	    // User-defined function to count the number of words in a string
 	    public static int countWords(String str) {
 	        // Check for null or empty string
