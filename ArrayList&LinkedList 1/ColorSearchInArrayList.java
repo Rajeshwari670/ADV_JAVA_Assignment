@@ -10,7 +10,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class ArrayList_1b_1 {
+public class ColorSearchInArrayList {
     public static void main(String[] args) {
         ArrayList<String> colorsList = new ArrayList<>();
         addColors(colorsList);
