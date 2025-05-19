@@ -9,7 +9,7 @@ package ADV_JAVA;
 import java.util.Arrays;
 
 
-public class Stringoperation_2a {
+public class StringOperationsDemo {
 	    public static void main(String[] args) {
 	        // 1. String Creation and Basic Operations
 	        System.out.println("1. String Creation and Basic Operations:");
