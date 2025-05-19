@@ -4,7 +4,7 @@ function removeWhitespace() */
 
 package ADV_JAVA;
 
-public class Strig_3b_5 {
+public class WhitespaceRemover {
 	    // User-defined function to remove all whitespace characters from a string
 	    public static String removeWhitespace(String str) {
 	        // Check for null or empty string
