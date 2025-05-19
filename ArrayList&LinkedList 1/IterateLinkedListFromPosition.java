@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Iterator;
 
 
-public class LinkedList_1c_1 {
+public class IterateLinkedListFromPosition {
     public static void main(String[] args) {
         // Create a LinkedList to store colors
         LinkedList<String> colors = new LinkedList<>();
