@@ -25,7 +25,7 @@ Output for 1C_10:-SwapElementsLinkedList : https://github.com/Rajeshwari670/ADV_
 
 Output for 2A:-StringOperationsDemo : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20212838.png
 
-Output for 2B:-StringBufferVsStringBuilderPerformance: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20213556.png
+Output for 2B:-StringPerformanceTest: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20213556.png
 
 Output for 3A:-StringOperationsDemo 3a : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20214121.png
  
