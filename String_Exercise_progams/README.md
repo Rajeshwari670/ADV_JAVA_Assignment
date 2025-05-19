@@ -1,22 +1,24 @@
 OUTPUTS:
-String_3a o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20214121.png
+Output for 3A:-StringOperationsDemo 3a : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20214121.png
+ 
+Output for 3B_1:-NullOrWhitespaceCheck : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20214957.png
 
-String_3b_1 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20214957.png
+Output for 3B_2:-SubstringCounter: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20215609.png
+  
+Output for 3B_3:-ReverseStringDemo: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20220008.png
 
-String_3b_2 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20215609.png
+Output for 3B_4:-PalindromeChecker: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20220905.png
+  
+Output for 3B_5:-WhitespaceRemover  : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20221345.png
 
-String_3b_3 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20220008.png
+Output for 3C_6:-CapitalizeWords: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20221747.png
+  
+Output for 3C_7:-TruncateString : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20222208.png
 
-String_3b_4 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20220905.png
+Output for 3C_8:-NumericCheck  : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20222523.png
 
-String_3b_5 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20221345.png
+Output for 3C_9:-RandomStringGenerator  : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20223307.png
 
-String_3c_6 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20221747.png
+Output for 3C_10:-WordCounter : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20224040.png
 
-String_3c_7 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20222208.png
 
-String_3c_8 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20222523.png
-
-String_3c_9 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20223307.png
-
-String_3c_10 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20224040.png
