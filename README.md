@@ -10,11 +10,11 @@ ArrayList 1b_2 Color_Remove : https://github.com/Rajeshwari670/ADV_JAVA_Assignme
 
 ArrayList_1b_4 ColorSort: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20193404.png
 
-ArrayList 1b_5 : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20193920.png
+Output for 1B_4:-ColorSubList : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20193920.png
 
-ArrayList_1b_6 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20194459.png
+Output for 1B_6:-ColorRemoveByIndex : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20194459.png
 
-LinkedList_1c_1 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20195559.png
+Output for 1C_1:-LinkedListIteratorExample : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20195559.png
 
 LinkedList_1c_2 o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20200156.png
 
@@ -89,6 +89,7 @@ ColorTabbedPane(5d) o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/bl
 9c Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/HTML%2CJSP%26JDBC_Prog_9a%2Cb%2Cc%2Cd/9c.jpeg
 
 9d Output : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/HTML%2CJSP%26JDBC_Prog_9a%2Cb%2Cc%2Cd/9d.jpeg
+
 
 
 
