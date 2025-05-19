@@ -3,7 +3,7 @@ capitalizeWords()  */
 
 package ADV_JAVA;
 
-public class String_3c_6 {
+public class CapitalizeWords {
 	    // User-defined function to capitalize the first letter of each word
 	    public static String capitalizeWords(String str) {
 	        // Check for null or empty string
