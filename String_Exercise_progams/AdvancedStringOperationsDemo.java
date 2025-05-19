@@ -10,7 +10,7 @@ startsWith() and endsWith()  */
 package ADV_JAVA;
 import java.util.Arrays;
 
-public class String_3a {
+public class AdvancedStringOperationsDemo {
 	    public static void main(String[] args) {
 	        // 1. String Creation and Basic Operations
 	        System.out.println("1. String Creation and Basic Operations:");
