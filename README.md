@@ -39,7 +39,7 @@ Output for 3B_4:-PalindromeChecker: https://github.com/Rajeshwari670/ADV_JAVA_As
   
 Output for 3B_5:-WhitespaceRemover  : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/3b_5_whitespace.png
 
-Output for 3C_6:-CapitalizeWords: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20221747.png
+Output for 3C_6:-CapitalizeWords: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/3C_6:-CapitalizeWords.png
   
 Output for 3C_7:-TruncateString : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/3C_7:-TruncateString.png
 
