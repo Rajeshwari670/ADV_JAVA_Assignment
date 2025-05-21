@@ -49,7 +49,7 @@ Output for 3C_9:-RandomStringGenerator  : https://github.com/Rajeshwari670/ADV_J
 
 Output for 3C_10:-WordCounter : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/3C_10:-WordCounter.png
 
-Output for 4A:-HelloSwingMessage  : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20224749.png
+Output for 4A:-HelloSwingMessage  : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/4A:-HelloSwingMessage.png
 
 Output for 4B:-CountryButtonEvent: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20225939.png
   
