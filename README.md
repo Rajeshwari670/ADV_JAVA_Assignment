@@ -55,7 +55,7 @@ Output for 4B:-CountryButtonEvent: https://github.com/Rajeshwari670/ADV_JAVA_Ass
   
 Output for 4C:-DigitalClock : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/4c.jpeg.jpg
 
-Output for 5a ;- CountryListDisplay : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-18%20125509.png
+Output for 5a ;- CountryListDisplay : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/5a%20;-%20CountryListDisplay.png
 
 Output for 5b ;- ColorTabbedPaneRBG: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-18%20125550.png
 
