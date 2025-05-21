@@ -27,7 +27,7 @@ Output for 2A:-StringOperationsDemo : https://github.com/Rajeshwari670/ADV_JAVA_
 
 Output for 2B:-StringPerformanceTest: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/2b_StringPerformnace.png
 
-Output for 3A:- AdvancedStringOperationsDemo 3a : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20214121.png
+Output for 3A:- AdvancedStringOperationsDemo 3a : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/3a_AdvancedString.png
  
 Output for 3B_1:-NullOrEmptyCheck : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20214957.png
 
