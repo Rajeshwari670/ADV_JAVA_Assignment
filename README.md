@@ -47,7 +47,7 @@ Output for 3C_8:-NumericStringValidator  : https://github.com/Rajeshwari670/ADV_
 
 Output for 3C_9:-RandomStringGenerator  : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/3C_9:-RandomStringGenerator.png
 
-Output for 3C_10:-WordCounter : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20224040.png
+Output for 3C_10:-WordCounter : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/3C_10:-WordCounter.png
 
 Output for 4A:-HelloSwingMessage  : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20224749.png
 
