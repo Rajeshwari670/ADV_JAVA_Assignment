@@ -11,7 +11,7 @@ ArrayList_1b_4 SortColorsArrayList: https://github.com/Rajeshwari670/ADV_JAVA_As
 
 Output for 1B_5:- SubListFromArrayList : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/1b_5_Sublist.png
 
-Output for 1B_6:-RemoveNthElementArrayList : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20194459.png
+Output for 1B_6:-RemoveNthElementArrayList : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/1b_6_RemoveNthelement.png
 
 Output for 1C_6:- IterateLinkedList : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20195559.png
   
