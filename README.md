@@ -31,7 +31,7 @@ Output for 3A:- AdvancedStringOperationsDemo 3a : https://github.com/Rajeshwari6
  
 Output for 3B_1:-NullOrEmptyCheck : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/3a_NullorNot.png
 
-Output for 3B_2:-SubstringOccuranceCounter: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20215609.png
+Output for 3B_2:-SubstringOccuranceCounter: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/3b_2_Substring.png
   
 Output for 3B_3:-ReverseString: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20220008.png
 
