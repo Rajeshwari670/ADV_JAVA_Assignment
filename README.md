@@ -13,7 +13,7 @@ Output for 1B_5:- SubListFromArrayList : https://github.com/Rajeshwari670/ADV_JA
 
 Output for 1B_6:-RemoveNthElementArrayList : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/1b_6_RemoveNthelement.png
 
-Output for 1C_6:- IterateLinkedList : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20195559.png
+Output for 1C_6:- IterateLinkedList : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/1c_6_Iteratelinked.png
   
 Output for 1C_7:- ReserveIterateLinkedList : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20200156.png
 
