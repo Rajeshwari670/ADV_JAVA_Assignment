@@ -61,7 +61,7 @@ Output for 5b ;- ColorTabbedPaneRBG: https://github.com/Rajeshwari670/ADV_JAVA_A
 
 Output for 5c:-CountryCapitalListDisplay o/p: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/5c:-CountryCapitalListDisplay.png
 
-Output for 5d :- ColorTabbedPane: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-18%20124354.png
+Output for 5d :- ColorTabbedPane: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/5d%20:-%20ColorTabbedPane.png
 
 Output for 6A:-factorial: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Serverlet_Program_6a%2Cb%2Cc/6a.jpeg
  
