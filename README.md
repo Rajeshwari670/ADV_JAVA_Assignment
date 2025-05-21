@@ -1,7 +1,7 @@
 # ADV_JAVA_Assignment
 
 1a output:-AddingElements: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/1a_LinkedList.png
-&&  : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20181904.png
+&&  : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/1a_ArrayList.png
 
  ArrayList 1b_1 ColorSearch: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20183318.png
 
