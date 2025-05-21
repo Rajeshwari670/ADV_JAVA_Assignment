@@ -21,7 +21,7 @@ Output for 1C_8:-InsertAtEndLinkedList : https://github.com/Rajeshwari670/ADV_JA
 
 Output for 1C_9:-DisplayLinkedListFromPosition : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/1c_9_DisplayLinkedlist.png
 
-Output for 1C_10:-SwapElementsLinkedList : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20212155.png
+Output for 1C_10:-SwapElementsLinkedList : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/1c_10_SwapElements.png
 
 Output for 2A:-StringOperationsDemo : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20212838.png
 
