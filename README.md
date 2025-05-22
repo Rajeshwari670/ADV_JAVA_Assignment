@@ -1,6 +1,6 @@
 # ADV_JAVA_Assignment
 
-1a output:-AddingElements: 
+1a output:-AddingElements: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/ArrayOpeartion1a.png
 
  ArrayList 1b_1 ColorSearch: https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/1b_ColorSearch.png
  
